@@ -8,8 +8,10 @@ and Makes LinkedIn a more trustworthy platform for genuine users.
 * Overestimate the prevalence of bots 
 * Exposure tends to impair judgment of bot-recognition self-efficacy 
 * Increase propensity toward stricter bot-regulation policies 
-* Decreased self-efficacy and increased perceptions of bot influence 
+* Decreased self-efficacy and increased perceptions of bot influence
 
+## Research Question
+What are characteristics or patterns we can use to detect LLM profile generated bots on Linkedin?
 
 ## Data Description
 This dataset comprises a total of 3600 LinkedIn profiles, categorized into three main groups:
