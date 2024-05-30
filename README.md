@@ -33,8 +33,8 @@ Enhances transparency, Decreases the prevalence of false profiles, make LinkedIn
 
 ## Solution
 
-We wanted to build a Chrome extension that could show the percentage that someone might be a bot if someone is viewing their profile. 
-This would be determined by training an algorithm to look at keywords or behaviors of bots
+We want to create a visual comparison between fake and real profiles on LinkedIn to show awareness for students.
+We also want to share our models for students to test and determine if the profile is legit on LinkedIn.
 
 
 ### Citation
