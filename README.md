@@ -61,10 +61,11 @@ Choose the appropriate version for your operating system:
 
 * Linux: Depending on your distribution, you can download either the .deb package for Debian/Ubuntu-based systems or the .rpm package for Red Hat/Fedora/SUSE-based systems.
 Follow the installation instructions provided on the download page.
+[https://code.visualstudio.com/download]
 
 Setting Up Python Environment in VSCode:
 Once you have VSCode installed, open it.
-* Install the Python extension for VSCode. You can do this by going to the Extensions view (click on the square icon on the sidebar or press Ctrl+Shift+X) and searching for “Python”. Install the one provided by Microsoft.
+* Install the Python extension for VSCode. 
 * Create a new Python project or open an existing one.
 * Open a Python file (.py) in your project.
 
