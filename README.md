@@ -56,7 +56,9 @@ Visit the official Visual Studio Code download page.
 Choose the appropriate version for your operating system:
 
 *Windows: Download the Windows installer.
+
 *macOS: Download the macOS version.
+
 *Linux: Depending on your distribution, you can download either the .deb package for Debian/Ubuntu-based systems or the .rpm package for Red Hat/Fedora/SUSE-based systems.
 Follow the installation instructions provided on the download page.
 
