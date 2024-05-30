@@ -48,16 +48,28 @@ We also want to share our models for students to test and determine if the profi
 
 ## Instructions
 
-# Build and Install
+### Build and Install
 
-1. Download and Install Visual Studio Code (VSCode)
-You can download Visual Studio Code from the official website: Download VSCode
+Download and Install Visual Studio Code (VSCode):
 
-Follow the installation instructions provided for your operating system (Windows, macOS, or Linux).
+Visit the official Visual Studio Code download page.
+Choose the appropriate version for your operating system:
 
+*Windows: Download the Windows installer.
+*macOS: Download the macOS version.
+*Linux: Depending on your distribution, you can download either the .deb package for Debian/Ubuntu-based systems or the .rpm package for Red Hat/Fedora/SUSE-based systems.
+Follow the installation instructions provided on the download page.
 
+Setting Up Python Environment in VSCode:
+Once you have VSCode installed, open it.
+*Install the Python extension for VSCode. You can do this by going to the Extensions view (click on the square icon on the sidebar or press Ctrl+Shift+X) and searching for “Python”. Install the one provided by Microsoft.
+*Create a new Python project or open an existing one.
+*Open a Python file (.py) in your project.
 
+If you haven’t already installed Python on your system, you’ll need to do so. You can download Python from the official Python website.
 
+*To install Python packages (such as pandas, scikit-learn, seaborn, and matplotlib), open the integrated terminal in VSCode (press Ctrl+Backtick or go to View > Terminal), and use the following commands:
+pip install pandas scikit-learn seaborn matplotlib
 
 ### Citation
 @inproceedings{ayoobi2023looming,
